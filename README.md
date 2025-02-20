@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Rishabh Dev Sharma</h1>
 <div align="center"> <img src="https://github.com/rsharmaofficial/rsharmaofficial/blob/main/Blue%20and%20White%20Architect%20LinkedIn%20Banner.png"> </div>
-<h3 align="center">A passionate frontend developer And Linux Administrator from India</h3>
+<h3 align="center">A devops engineer and cyber security geek from india</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsharmaofficial&label=Profile%20views&color=0e75b6&style=flat" alt="rsharmaofficial" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rsharmaofficial" alt="rsharmaofficial" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Devops**
 
-- 🌱 I’m currently learning **React,Web Security , Cyber Security**
+- 🌱 I’m currently learning **React,Web Security , Cyber Security, Devops**
 
 - 🤝 I’m looking for help with **Application Security & Computer Networking**
 
-- 💬 Ask me about **React, Python,JavaScript, Networking, CyberSecurity**
+- 💬 Ask me about **React, Python,JavaScript, Networking, CyberSecurity , devops , CI/CD , Terraform , Gitlab , Github, AWS**
 
 - 📫 How to reach me **byteworriers@gmail.com**
 

@@ -30,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rsharmaofficial&show_icons=true&locale=en" alt="rsharmaofficial" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rsharmaofficial&" alt="rsharmaofficial" /></p>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/677d0a1970129741a8f21010?variant=dark" alt="roadmap.sh"/></a>

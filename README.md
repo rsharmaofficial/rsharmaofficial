@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishabh Dev Sharma</h1>
-<div align="center"> <img src="https://github.com/rsharmaofficial/rsharmaofficial/blob/main/https://github.com/rsharmaofficial/rsharmaofficial/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg"> </div>
+<div align="center"> <img src="https://github.com/rsharmaofficial/blob/main/White%20Minimalist%20Corporate%20Personal%20Profile%20LinkedIn%20Banner.jpg"> </div>
 <h3 align="center">A devops engineer and cyber security geek from india</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsharmaofficial&label=Profile%20views&color=0e75b6&style=flat" alt="rsharmaofficial" /> </p>

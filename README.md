@@ -63,10 +63,9 @@ Check out my contributions to open-source projects in the **DevOps** and **Cloud
 ---
 
 ## 📊 More Stats
-- Total Repositories: ![Repository Count](https://img.shields.io/github/forks/rsharmaofficial?style=flat-square)
-- Open Issues: ![Open Issues](https://img.shields.io/github/issues/rsharmaofficial?style=flat-square)
-- Pull Requests: ![Pull Requests](https://img.shields.io/github/pulls/rsharmaofficial?style=flat-square)
-- Total Stars: ![Total Stars](https://img.shields.io/github/stars/rsharmaofficial?style=flat-square)
+- ![Open Issues](https://img.shields.io/github/issues/USERNAME/REPO_NAME?style=flat-square)
+![Pull Requests](https://img.shields.io/github/issues-pr/USERNAME/REPO_NAME?style=flat-square)
+![Stars](https://img.shields.io/github/stars/USERNAME/REPO_NAME?style=flat-square)
 
 ---
 

@@ -2,7 +2,7 @@
 
 Welcome to my GitHub! I'm Rishabh, a passionate DevOps Engineer and technology enthusiast with a focus on cloud infrastructure, automation, and CI/CD pipelines.
 
-![Profile Banner](11.jpeg)  <!-- Replace with your actual image URL -->
+  <!-- Replace with your actual image URL -->
 
 ## 🚀 About Me
 
